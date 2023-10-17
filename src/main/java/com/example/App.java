@@ -1,7 +1,7 @@
 package com.example;
 
-* comment for file change
-* comment new feature branch
+// comment for file change
+// comment new feature branch
 /**
  * Hello world!
  *
