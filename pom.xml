@@ -70,13 +70,9 @@
           <version>3.0.0</version>
         </plugin>
         <plugin>
-          <groupId>org.codehaus.mojo</groupId>
           <artifactId>exec-maven-plugin</artifactId>
           <version>3.1.0</version>
-          <configuration>
-              <mainClass>com.example.Main</mainClass>
-          </configuration>
-      </plugin>
+       </plugin>
       </plugins>
     </pluginManagement>
   </build>
